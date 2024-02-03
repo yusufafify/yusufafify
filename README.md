@@ -5,8 +5,6 @@ Hello, I'm Youssef Ahmed Afify, a junior web developer and an undergraduate stud
 # 📚 Education
 - Biomedical Engineering, Cairo University
   - Undergraduate Student
-# 🚀 Current Project
-I am currently working on a Figma Clone website, where I aim to replicate the functionality and design of Figma for educational and personal development purposes.
 
 # 🛣️ Career Path
 I am on the journey to becoming a full-stack developer, aspiring to merge my programming skills with expertise in bioinformatics and neuroscience engineering. Cybersecurity is another area that I am passionate about, with the goal of mastering it in the future.
@@ -30,11 +28,9 @@ I am on the journey to becoming a full-stack developer, aspiring to merge my pro
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)      
 ### Python Libraries:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-### Others:
+### Other Tools:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yusufafify&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yusufafify&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufafify&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yusufafify&theme=radical&hide_border=false)            ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufafify&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
