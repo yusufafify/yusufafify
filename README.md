@@ -10,7 +10,7 @@ Hello, I'm Youssef Ahmed Afify, a junior web developer and an undergraduate stud
 I am on the journey to becoming a full-stack developer, aspiring to merge my programming skills with expertise in bioinformatics and neuroscience engineering. Cybersecurity is another area that I am passionate about, with the goal of mastering it in the future.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/youssef-afify-aa458b2b2/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-afify-aa458b2b2/) 
 
 # 💻 Tech Stack:
 ## Programming Languages:
